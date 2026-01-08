@@ -8,17 +8,6 @@
 
 ---
 
-### 👨‍💻 Hakkımda
-
-Merhaba! Ben **Berkay Gemici**. **Giresun Üniversitesi Bilgisayar Mühendisliği 2. sınıf** öğrencisiyim. 
-Özellikle **Java** ve **Python** teknolojileriyle ilgileniyor; masaüstü uygulamaları, backend sistemleri ve yapay zeka algoritmaları (PSO, ABC vb.) üzerine projeler geliştiriyorum.
-
-- 🔭 Şu an **İleri Seviye Java & Algoritmalar** üzerine çalışıyorum.
-- 🌱 **Veri Yapıları** ve **Nesne Yönelimli Programlama** konularında derinleşiyorum.
-- ⚡ İlgi Alanlarım: **Backend Geliştirme, Swing GUI, REST API, Sezgisel Algoritmalar.**
-
----
-
 ### 🛠️ Yetenekler & Teknolojiler
 
 <div align="center">
@@ -43,7 +32,7 @@ Merhaba! Ben **Berkay Gemici**. **Giresun Üniversitesi Bilgisayar Mühendisliğ
 
 | Proje İsmi | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
-| **📚 Library Management System** | Java Swing ve MySQL kullanılarak geliştirilmiş, stok takibi yapabilen kütüphane otomasyonu. | `Java` `Swing` `JDBC` `MySQL` |
+| **📚 Library Management System** | Java Swing ve MySQL kullanılarak geliştirilmiş, stok takibi yapabilen gelişmiş kütüphane otomasyonu. | `Java` `Swing` `JDBC` `MySQL` |
 | **🎵 GetLyrics** | Çalan şarkıyı tespit edip sözlerini getiren ve çeviri yapabilen otomasyon aracı. | `Python` `REST API` `JSON` |
 
 ---
