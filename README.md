@@ -37,15 +37,6 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayg0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayg0&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
----
-
 ### 📫 İletişim
 
 <div align="center">
