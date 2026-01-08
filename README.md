@@ -28,8 +28,8 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **📚 Library Management System** | Java Swing ve MySQL kullanılarak geliştirilmiş, stok takibi yapabilen gelişmiş kütüphane otomasyonu. | `Java` `Swing` `JDBC` `MySQL` |
-| **🎵 GetLyrics** | Çalan şarkıyı tespit edip sözlerini getiren ve çeviri yapabilen otomasyon aracı. | `Python` `REST API` `JSON` |
+| **📚 A desktop application for managing book inventory, borrowing, and returning processes with a user-friendly GUI. | `Java` `Swing` `JDBC` `MySQL` |
+| **🎵 GetLyrics** | An automation tool that detects the currently playing song and fetches its lyrics/translations via APIs. | `Python` `REST API` `JSON` |
 
 ---
 
