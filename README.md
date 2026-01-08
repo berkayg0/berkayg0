@@ -28,7 +28,7 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **📚 A desktop application for managing book inventory, borrowing, and returning processes with a user-friendly GUI. | `Java` `Swing` `JDBC` `MySQL` |
+| **📚 Library Management System** | A desktop application for managing book inventory, borrowing, and returning processes with a user-friendly GUI. | `Java` `Swing` `JDBC` `MySQL` |
 | **🎵 GetLyrics** | An automation tool that detects the currently playing song and fetches its lyrics/translations via APIs. | `Python` `REST API` `JSON` |
 
 ---
