@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Yetenekler & Teknolojiler
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -28,16 +28,16 @@
 
 ---
 
-### 📂 Öne Çıkan Projelerim
+### 📂 Projects
 
-| Proje İsmi | Açıklama | Teknoloji |
+| Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **📚 Library Management System** | Java Swing ve MySQL kullanılarak geliştirilmiş, stok takibi yapabilen gelişmiş kütüphane otomasyonu. | `Java` `Swing` `JDBC` `MySQL` |
 | **🎵 GetLyrics** | Çalan şarkıyı tespit edip sözlerini getiren ve çeviri yapabilen otomasyon aracı. | `Python` `REST API` `JSON` |
 
 ---
 
-### 📫 İletişim
+### 📫 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/berkay-gemici-ceng" target="_blank">
